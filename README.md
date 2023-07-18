@@ -1,6 +1,7 @@
+# Credit to :
+https://github.com/alifgiant/ktp-collector-flutter-lib
 ```
-Credit to https://github.com/alifgiant/ktp-collector-flutter-lib
-I only make this compatible in flutter 3.10.0 with upgrade package intl to 0.18.0
+I only make this compatible in flutter 3.10.0 with upgrade package intl to 0.18.0, please credit to initial developer
 ```
 
 # KTP Scanner
