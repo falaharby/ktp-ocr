@@ -1,8 +1,13 @@
+```
+Credit to https://github.com/alifgiant/ktp-collector-flutter-lib
+I only make this compatible in flutter 3.10.0 with upgrade package intl to 0.18.0
+```
+
 # KTP Scanner
 
 Make sure you follow camera setup on https://pub.dev/packages/camera
 
-# Run At
+## Run At
 ```
 [√] Flutter (Channel stable, 3.10.2, on Microsoft Windows [Version 10.0.19045.3208], locale en-ID)
     • Flutter version 3.10.2 on channel stable at C:\src\flutter
